@@ -1,0 +1,4 @@
+identifier,title,status,sequence,thumbnail,delete
+TEST_CATEGORY_1,Test Category 1,active,1,,false
+TEST_CATEGORY_2,Test Category 2,active,1,,false
+TEST_CATEGORY_3,Test Category 3,active,1,,false

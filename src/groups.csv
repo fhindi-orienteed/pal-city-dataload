@@ -1,0 +1,4 @@
+identifier,title,status,sequence,delete
+TEST_GROUP_1,Test Group 1,active,1,false
+TEST_GROUP_2,Test Group 2,active,1,false
+TEST_GROUP_3,Test Group 3,active,1,false
