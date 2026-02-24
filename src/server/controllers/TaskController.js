@@ -1,5 +1,4 @@
-const TaskManager = require('../../services/TaskManager'); 
-
+const TaskManager = require('../../services/TaskManager');
 exports.startTask = async (req, res) => {
     TaskManager.processGroupsTask()
 
