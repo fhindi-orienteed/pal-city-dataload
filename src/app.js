@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 
-const taskRoutes = require('./server/Routes/taskRoutes'); 
+const taskRoutes = require('./Server/Routes/TaskRoutes');
 const constants = require('./config/constants');
 app.use(express.json());
 
